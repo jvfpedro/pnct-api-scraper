@@ -1,6 +1,6 @@
-# Traffic Volume Data Collection - PNCT API
+# **pnct-api-scraper**
 
-This project was developed in collaboration with Daniel Tavares dos Anjos (https://github.com/danieltanjos). This repository contains two Python scripts for collecting traffic volume data from highways using the National Traffic Counting Program (PNCT) API from DNIT. The collected data corresponds to hourly and quarter-hourly traffic volume for specified counting stations.
+This repository was developed as part of the Integrative Project I of the Civil Engineering course at the Federal University of Santa Catarina (UFSC). This repository contains two Python scripts for collecting traffic volume data from highways using the National Traffic Counting Program (PNCT) API from DNIT. The collected data corresponds to hourly and quarter-hourly traffic volume for specified counting stations.
 
 ## Script Structure
 
@@ -58,13 +58,12 @@ The CSV files contain the following columns:
 
 ## Author
 
-This repository was developed as part of the Integrative Project I of the Civil Engineering course at the Federal University of Santa Catarina (UFSC).
-
 João Vitor Ferreira Pedro
-Civil Engineering - UFSC
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
-https://github.com/jvfpedro
-
-jvfpedro@gmail.com
+Daniel Tavares dos Anjos
+[collaborator]
+[https://github.com/danieltanjos]
 
 
